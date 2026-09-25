@@ -1,5 +1,5 @@
 # 💫 About Me:
-Create a professional, modern, and human-looking GitHub Profile README for me.<br><br>My name is **Alazar Ayele**. I am a software developer focused mainly on **backend development and Go**. I enjoy building real-world applications, learning how software works under the hood, and improving my programming skills through practical projects.
+<br><br>My name is **Alazar Ayele**. I am a software developer focused mainly on **backend development and Go**. I enjoy building real-world applications, learning how software works under the hood, and improving my programming skills through practical projects.
 
 
 ## 🌐 Socials:
